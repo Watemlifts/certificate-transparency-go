@@ -8,7 +8,7 @@ require (
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/golang/mock v1.6.0
 	github.com/golang/protobuf v1.5.2
-	github.com/google/go-cmp v0.5.8
+	github.com/google/go-cmp v0.5.9
 	github.com/google/trillian v1.4.1-0.20220503161811-32257c5c3ca0
 	github.com/gorilla/mux v1.8.0
 	github.com/kylelemons/godebug v1.1.0

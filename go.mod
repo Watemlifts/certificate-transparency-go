@@ -21,7 +21,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/tomasen/realip v0.0.0-20180522021738-f0c99a92ddce
 	github.com/transparency-dev/merkle v0.0.0-20220427153749-09877c5f5967
-	go.etcd.io/etcd/client/v3 v3.5.4
+	go.etcd.io/etcd/client/v3 v3.5.6
 	go.etcd.io/etcd/etcdctl/v3 v3.5.4
 	go.etcd.io/etcd/v3 v3.5.4
 	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4

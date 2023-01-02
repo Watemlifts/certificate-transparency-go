@@ -15,7 +15,7 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.10
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826
 	github.com/prometheus/client_golang v1.12.1
-	github.com/rs/cors v1.8.2
+	github.com/rs/cors v1.8.3
 	github.com/sergi/go-diff v1.2.0
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/pflag v1.0.5
